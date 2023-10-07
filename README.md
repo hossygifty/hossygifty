@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hossana Monday</h1>
 <h3 align="center">A passionate frontend developer from Nigeria, i am currently learning Front-End engineering from Meta on Coursera</h3>
-https://gifer.com/en/JXA0
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hossygifty&label=Profile%20views&color=0e75b6&style=flat" alt="hossygifty" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hossygifty" alt="hossygifty" /></a> </p>
